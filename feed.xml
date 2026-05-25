@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title><![CDATA[ 마케팅 자동화 에이전트 라이선스 서버]]></title>
+  <link>https://namanavi.com</link>
+  <description><![CDATA[ BPaaS 라이선스 허브 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
+  <language>ko-KR</language>
+  <pubDate>Mon, 25 May 2026 18:32:17 GMT</pubDate>
+  <lastBuildDate>Mon, 25 May 2026 18:32:17 GMT</lastBuildDate>
+  <atom:link href="https://namanavi.com/feed.xml" rel="self" type="application/rss+xml" />
+  
+    <item>
+      <title><![CDATA[ 마케팅 자동화 에이전트 라이선스 서버 - 공식 홈페이지 오픈 안내]]></title>
+      <link>https://namanavi.com/</link>
+      <guid isPermaLink="true">https://namanavi.com/</guid>
+      <description><![CDATA[ BPaaS 라이선스 허브 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
+      <pubDate>Mon, 25 May 2026 18:32:17 GMT</pubDate>
+    </item>
+</channel>
+</rss>
